@@ -5,3 +5,5 @@ some text
 add new text
 
 add another new text
+
+I also like sweets
